@@ -62,7 +62,11 @@ Breve descripción del proyecto.
 * Contribuir a proyectos Open Source.
 
 ---
-![snake](https://raw.githubusercontent.com/Juanrz24/Juanrz24/output/snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ## Creador & Mantenimiento
