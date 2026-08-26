@@ -62,11 +62,20 @@ Breve descripción del proyecto.
 * Contribuir a proyectos Open Source.
 
 ---
+![snake](https://raw.githubusercontent.com/Juanrz24/Juanrz24/output/snake-dark.svg)
 
-## Contacto
-
- [luisrodrigeuz@itipopayan.edu.co)
 ---
+## Creador & Mantenimiento
+
+Desarrollado y mantenido por **Luis Rodriguez** ([@luisrodriguez-rgb](https://github.com/luisrodriguez-rgb)).
+
+<div align="center">
+  <a href="https://github.com/luisrodriguez-rgb">
+    <img src="https://github.com/luisrodriguez-rgb.png" width="250" height="250" style="border-radius: 50%; border: 3px solid #2563eb;" alt="Luis Rodriguez" />
+    <br/>
+  </a>
+</div>
+
 
 > "Construyendo soluciones que conectan tecnología, negocio y experiencia de usuario."
 
