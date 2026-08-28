@@ -71,7 +71,25 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>03 // El Sabio</h4>
+      <h4>
+        <img src="./assets/logo.svg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="GITHUB_SNAKE.EXE" />
+        &nbsp; 03 // GITHUB_SNAKE.EXE
+      </h4>
+      <p><strong>Motor de Simulación Canvas 2D &amp; Videojuego a 60 FPS</strong></p>
+      <p>Motor interactivo y emulador de perfiles con interpolación LERP (Zero-Flicker), navegación autónoma inteligente BFS + Flood Fill, modo duelo multijugador, Web Audio API y generador de scripts de Commit Art.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canvas%202D-18181B?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/BFS%20Pathfinding-18181B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20Audio-18181B?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/">[ Demo en Vivo ]</a> &middot;
+        <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE">[ Repositorio ]</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>04 // El Sabio</h4>
       <p><strong>Software para Restaurantes</strong></p>
       <p>Plataforma web para restaurantes y gastrobares para gestionar reservas, disponibilidad de mesas y la operación diaria desde un solo lugar, reduciendo procesos manuales y evitando sobreventas.</p>
       <p>
@@ -85,10 +103,12 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
         <a href="https://github.com/luisrodriguez-rgb/El-Sabio">[ Repositorio ]</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>
         <img src="./assets/seamos_genios.svg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="SEAMOS GENIOS" />
-        &nbsp; 04 // SEAMOS GENIOS
+        &nbsp; 05 // SEAMOS GENIOS
       </h4>
       <p><strong>Plataforma Educativa &amp; Automatización</strong></p>
       <p>Desarrollo y mantenimiento de soluciones tecnológicas para organización de preparación académica. Automatización de procesos, desarrollo web e integración de herramientas digitales.</p>
@@ -102,12 +122,10 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
         <strong>Organización:</strong> SEAMOSGENIOS S.A.S.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>
         <img src="./assets/ferreteria.jpeg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="Ferretería El Dorado" />
-        &nbsp; 05 // Ferretería El Dorado
+        &nbsp; 06 // Ferretería El Dorado
       </h4>
       <p><strong>Aplicación Web Comercial &middot; Popayán</strong></p>
       <p>Presencia digital y catálogo web desarrollado para Ferretería El Dorado en Popayán, con interfaz en React y arquitectura con backend y base de datos MySQL.</p>
@@ -121,8 +139,10 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
         <a href="https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado">[ Repositorio ]</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>06 // SH Store</h4>
+      <h4>07 // SH Store</h4>
       <p><strong>E-commerce</strong></p>
       <p>Proyecto enfocado en el aprendizaje del comercio electrónico y en desarrollar una experiencia de compra moderna utilizando tecnologías actuales de JavaScript.</p>
       <p>
@@ -132,6 +152,8 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
       <p>
         <em>En desarrollo</em>
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
@@ -153,13 +175,15 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
 ### Registro de Contribuciones
 
 <p>
-  Visualización dinámica de actividad de desarrollo y commits generada automáticamente mediante flujos de <strong>GitHub Actions</strong> y el motor vectorial <strong>Platane/snk</strong>.
+  Visualización dinámica de actividad de desarrollo y commits generada automáticamente mediante flujos de <strong>GitHub Actions</strong> y el motor vectorial <strong>Platane/snk</strong>, complementada con el emulador interactivo <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>GITHUB_SNAKE.EXE</strong></a>.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Pipeline-GitHub%20Actions-09090B?style=flat-square&logo=githubactions&logoColor=FAFAFA" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Engine-Platane%2Fsnk-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="Platane snk" />
-  <img src="https://img.shields.io/badge/Update-Daily%20Automated%20Sync-09090B?style=flat-square" alt="Automated Sync" />
+  <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/">
+    <img src="https://img.shields.io/badge/Simulator-GITHUB__SNAKE.EXE-09090B?style=flat-square&logo=javascript&logoColor=FAFAFA" alt="GITHUB_SNAKE.EXE" />
+  </a>
 </p>
 
 <div align="center">
