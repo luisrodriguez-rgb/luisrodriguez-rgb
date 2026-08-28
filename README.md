@@ -19,15 +19,15 @@ Sketion esta optimizado para el estudiante tecnico, ingeniero, desarrollador e i
 
 Profesor / Equipo entrega PDF o Dataset
               ↓
-  Importacion al Canvas (PDF & Data Engine)
+Importacion al Canvas (PDF & Data Engine)
               ↓
-  Graficas Vectoriales + Ecuaciones LaTeX (ML & Calculo)
+Graficas Vectoriales + Ecuaciones LaTeX (ML & Calculo)
               ↓
-  Diagramas de Flujo y Secuencia (Mermaid.js)
+Diagramas de Flujo y Secuencia (Mermaid.js)
               ↓
-     Notas en Markdown & Flashcards Activas
+Notas en Markdown & Flashcards Activas
               ↓
-    Repaso espaciado antes del examen o entrega
+Repaso espaciado antes del examen o entrega
 
 
 
@@ -35,6 +35,8 @@ Profesor / Equipo entrega PDF o Dataset
 **Web:** [Ver Sitio Web](https://sketion-home.vercel.app)
 **Repo:** [Ver repositorio](https://github.com/luisrodriguez-rgb/Sketion)
 **Docs:** [Ver documentación](https://docs-sketion.vercel.app)
+
+---
 
 ### Sketion-Diagram-Design-Engine — Motor visual para generar diagramas**
 
