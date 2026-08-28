@@ -1,8 +1,23 @@
-# Hola, soy Luis Rodríguez
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Luis Ernesto Rodriguez - Profile Header" />
+</div>
 
-### Estudiante de Ingeniería Industrial | Desarrollador de Software | Emprendedor
+<br/>
 
-Soy estudiante de Ingeniería Industrial en la Universidad Icesi y desarrollador enfocado en construir productos digitales que conecten tecnología, negocio y experiencia de usuario.
+<div align="center">
+  <a href="https://github.com/luisrodriguez-rgb">
+    <img src="https://img.shields.io/badge/GITHUB-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="GitHub" />
+  </a>
+  <a href="mailto:luisrodriguez@itipopayan.edu.co">
+    <img src="https://img.shields.io/badge/EMAIL-09090B?style=flat-square&logo=gmail&logoColor=FAFAFA" alt="Email" />
+  </a>
+</div>
+
+---
+
+### Sobre Mi
+
+Soy estudiante de **Ingeniería Industrial en la Universidad Icesi** y **estudiante de desarrollo de software** enfocado en aprender construyendo productos digitales que conecten tecnología, negocio y experiencia de usuario.
 
 Me interesa convertir problemas reales en soluciones de software funcionales, participando en todo el proceso: entender el problema, diseñar la solución, desarrollar el producto, desplegarlo y mejorar a partir del uso real.
 
@@ -10,154 +25,166 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
 
 ---
 
-## Proyectos destacados
+### Proyectos Destacados
 
-### Sketion 
-Sketion es un Visual Knowledge Workspace para aprender, pensar, estructurar informacion, disenar sistemas, documentar conocimiento y construir con IA. Permite integrar documentos PDF, formulas LaTeX, diagramas Mermaid, tablas y graficos de Data Pipelines, notas en Markdown, salas de colaboracion en tiempo real y herramientas de estudio en un unico espacio visual.
-
-Sketion esta optimizado para el estudiante tecnico, ingeniero, desarrollador e investigador. Nuestra vision es construir un Visual Knowledge Workspace donde se integre el flujo completo de pensamiento, estructura y construccion:
-
-Profesor / Equipo entrega PDF o Dataset
-              ↓
-Importacion al Canvas (PDF & Data Engine)
-              ↓
-Graficas Vectoriales + Ecuaciones LaTeX (ML & Calculo)
-              ↓
-Diagramas de Flujo y Secuencia (Mermaid.js)
-              ↓
-Notas en Markdown & Flashcards Activas
-              ↓
-Repaso espaciado antes del examen o entrega
-
-
-
-**Demo:** [Ver proyecto](sketion.vercel.app)
-**Web:** [Ver Sitio Web](https://sketion-home.vercel.app)
-**Repo:** [Ver repositorio](https://github.com/luisrodriguez-rgb/Sketion)
-**Docs:** [Ver documentación](https://docs-sketion.vercel.app)
-
----
-
-### Sketion-Diagram-Design-Engine — Motor visual para generar diagramas**
-
-Es un proyecto de software enfocado en transformar ideas, información estructurada y prompts en representaciones visuales organizadas.
-
-La idea parte de un problema sencillo: convertir información compleja en un diagrama normalmente requiere construir manualmente cada elemento, definir sus relaciones, organizar la distribución y posteriormente ajustar toda la composición.
-
-Sketion busca automatizar parte de este proceso mediante un motor capaz de interpretar estructuras y convertirlas en composiciones visuales consistentes y editables.
-
-El proyecto combina **procesamiento estructurado, reglas de composición, componentes visuales, generación de SVG e inteligencia artificial** para construir diferentes tipos de representaciones.
-
-Entre sus posibles aplicaciones se encuentran:
-
-* Diagramas de arquitectura de software.
-* Flujos de procesos.
-* Mapas conceptuales.
-* Diagramas de sistemas.
-* Estructuras organizacionales.
-* Documentación visual.
-* Representaciones de información compleja.
-
-Uno de los principales retos del proyecto es ir más allá de simplemente generar elementos visuales. El objetivo es desarrollar un sistema capaz de tomar decisiones sobre **jerarquía, relaciones, distribución espacial, composición y legibilidad**.
-
-El proyecto se encuentra actualmente en desarrollo y forma parte de mi exploración sobre cómo combinar software, inteligencia artificial y sistemas visuales.
-
-**Stack:** Python · JavaScript · React · SVG · AI
-
-**Demo:** [Ver proyecto](https://github.com/luisrodriguez-rgb/Sketion-Diagram-Design-Engine-)
-
----
-
-### El Sabio — Software para restaurantes
-
-**El Sabio** es una plataforma web orientada a restaurantes y gastrobares para gestionar reservas, disponibilidad de mesas y diferentes aspectos de la operación desde un solo lugar.
-
-El proyecto nace de un problema concreto: muchos restaurantes todavía gestionan sus reservas mediante WhatsApp, llamadas y procesos manuales. Esto puede generar errores, sobreventas, pérdida de información y poca visibilidad sobre la disponibilidad real del restaurante.
-
-La plataforma busca ofrecer una alternativa sencilla que permita al restaurante tener mayor control sobre sus reservas y operación sin depender completamente de procesos manuales.
-
-El proyecto también representa mi exploración en la construcción y validación de productos **SaaS**, desde el desarrollo de la aplicación hasta la definición del modelo de negocio y la experiencia del usuario.
-
-**Stack:** HTML · CSS · JavaScript · Firebase
-
-**Demo:** [Ver proyecto](https://produccion-nine.vercel.app/index.html)
-**Repositorio:** [El-Sabio](https://github.com/luisrodriguez-rgb/El-Sabio)
-
----
-
-### SEAMOS GENIOS — Plataforma educativa
-
-**SEAMOS GENIOS** es una organización educativa enfocada en preparación académica y desarrollo de experiencias y herramientas digitales para estudiantes.
-
-Hago parte del desarrollo tecnológico del proyecto, participando en la construcción y evolución de diferentes soluciones digitales utilizadas dentro de la organización.
-
-Mi trabajo incluye desarrollo web, automatización de procesos, integración de herramientas y construcción de soluciones orientadas a mejorar procesos internos y experiencias digitales.
-
-Trabajar en este proyecto también me ha permitido enfrentar problemas reales de producto y operación, donde desarrollar software no consiste únicamente en escribir código, sino en entender cómo funciona un proceso, identificar oportunidades de mejora y construir herramientas que realmente puedan ser utilizadas.
-
-Dentro de este trabajo he explorado diferentes tecnologías y herramientas relacionadas con desarrollo web, automatización, inteligencia artificial, gestión de información y experiencias digitales.
-
-**Áreas:** Desarrollo Web · Automatización · Producto Digital · Educación · Inteligencia Artificial
-
-**Organización:** SEAMOSGENIOS S.A.S.
-
----
-
-### Ferretería El Dorado — Popayán
-
-Aplicación web desarrollada para **Ferretería El Dorado**, un negocio de Popayán.
-
-El proyecto busca llevar parte de la presencia comercial de un negocio tradicional al entorno digital mediante una experiencia web organizada para presentar productos, servicios e información relevante para sus clientes.
-
-Además del desarrollo de la interfaz, el proyecto implicó trabajar con una arquitectura que permitiera gestionar información desde un backend y una base de datos.
-
-**Stack:** React · Node.js · MySQL
-
-**Demo:** [Ver proyecto](https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/)
-**Repositorio:** [Ferretería El Dorado](https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>01 // Sketion</h4>
+      <p><strong>Visual Knowledge Workspace</strong></p>
+      <p>Espacio visual de trabajo para aprender, estructurar información, modelar sistemas y documentar conocimiento. Permite integrar documentos PDF, fórmulas LaTeX, diagramas Mermaid, tablas de datos y notas Markdown en un único espacio visual.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canvas%20API-18181B?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://sketion.vercel.app">[ Demo ]</a> &middot;
+        <a href="https://sketion-home.vercel.app">[ Sitio Web ]</a> &middot;
+        <a href="https://github.com/luisrodriguez-rgb/Sketion">[ Repositorio ]</a> &middot;
+        <a href="https://docs-sketion.vercel.app">[ Documentación ]</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>02 // Sketion Diagram Design Engine</h4>
+      <p><strong>Motor Visual para Generar Diagramas</strong></p>
+      <p>Proyecto enfocado en transformar ideas, información estructurada y prompts en representaciones visuales organizadas, automatizando decisiones sobre jerarquía, relaciones, distribución espacial, composición y legibilidad.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/SVG-18181B?style=flat-square&logo=svg&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-18181B?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/luisrodriguez-rgb/Sketion-Diagram-Design-Engine-">[ Repositorio ]</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>03 // El Sabio</h4>
+      <p><strong>Software para Restaurantes</strong></p>
+      <p>Plataforma web para restaurantes y gastrobares para gestionar reservas, disponibilidad de mesas y la operación diaria desde un solo lugar, reduciendo procesos manuales y evitando sobreventas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://produccion-nine.vercel.app/index.html">[ Demo ]</a> &middot;
+        <a href="https://github.com/luisrodriguez-rgb/El-Sabio">[ Repositorio ]</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>04 // SEAMOS GENIOS</h4>
+      <p><strong>Plataforma Educativa &amp; Automatización</strong></p>
+      <p>Desarrollo y mantenimiento de soluciones tecnológicas para organización de preparación académica. Automatización de procesos, desarrollo web e integración de herramientas digitales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web%20Dev-18181B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-18181B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Digital%20Product-18181B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Education-18181B?style=flat-square" />
+      </p>
+      <p>
+        <strong>Organización:</strong> SEAMOSGENIOS S.A.S.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>05 // Ferretería El Dorado</h4>
+      <p><strong>Aplicación Web Comercial &middot; Popayán</strong></p>
+      <p>Presencia digital y catálogo web desarrollado para Ferretería El Dorado en Popayán, con interfaz en React y arquitectura con backend y base de datos MySQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/">[ Demo ]</a> &middot;
+        <a href="https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado">[ Repositorio ]</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>06 // SH Store</h4>
+      <p><strong>E-commerce</strong></p>
+      <p>Proyecto enfocado en el aprendizaje del comercio electrónico y en desarrollar una experiencia de compra moderna utilizando tecnologías actuales de JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=white" />
+      </p>
+      <p>
+        <em>En desarrollo</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### SH Store — E-commerce
+### Tecnologías
 
-**SH Store** es un proyecto enfocado en el aprendizaje del comercio electrónico enfocado en desarrollar una experiencia de compra moderna utilizando tecnologías actuales de JavaScript.
+<div align="left">
 
-El proyecto forma parte de mi exploración en **e-commerce, desarrollo de productos digitales y construcción de aplicaciones orientadas a usuarios reales**.
+#### Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=FAFAFA" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=FAFAFA" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-09090B?style=flat-square&logo=html5&logoColor=FAFAFA" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-09090B?style=flat-square&logo=css3&logoColor=FAFAFA" alt="CSS3" />
+</p>
 
-También me ha permitido experimentar con arquitecturas modernas de frontend, servicios backend y gestión de datos en la nube.
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=FAFAFA" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=FAFAFA" alt="Next.js" />
+</p>
 
-**Stack:** Next.js · Firebase
+#### Backend &amp; Datos
+<p>
+  <img src="https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=nodedotjs&logoColor=FAFAFA" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-09090B?style=flat-square&logo=firebase&logoColor=FAFAFA" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-09090B?style=flat-square&logo=mysql&logoColor=FAFAFA" alt="MySQL" />
+</p>
 
-**Demo:** Próximamente
-**Repositorio:** Próximamente
+#### Herramientas &amp; Desarrollo
+<p>
+  <img src="https://img.shields.io/badge/Git-09090B?style=flat-square&logo=git&logoColor=FAFAFA" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-09090B?style=flat-square&logo=githubactions&logoColor=FAFAFA" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-09090B?style=flat-square&logo=vercel&logoColor=FAFAFA" alt="Vercel" />
+</p>
+
+#### Áreas de Interés &amp; Exploración
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-09090B?style=flat-square" alt="AI" />
+  <img src="https://img.shields.io/badge/Automation-09090B?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-09090B?style=flat-square" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-09090B?style=flat-square" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/SaaS-09090B?style=flat-square" alt="SaaS" />
+</p>
+
+</div>
 
 ---
 
-## Tecnologías
+### Registro de Contribuciones
 
-### Lenguajes
-
-`Python` · `JavaScript` · `HTML` · `CSS`
-
-### Frontend
-
-`React` · `Next.js`
-
-### Backend y datos
-
-`Node.js` · `Firebase` · `MySQL`
-
-### Herramientas y desarrollo
-
-`Git` · `GitHub` · `GitHub Actions` · `Vercel`
-
-### Explorando
-
-`Artificial Intelligence` · `Automation` · `Cloud Computing` · `DevOps` · `Software Architecture` · `SaaS`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
-## Actualmente estoy trabajando en
+### Actualmente estoy trabajando en
 
 * Desarrollo y validación de productos SaaS.
 * Aplicaciones web para negocios.
@@ -169,7 +196,7 @@ También me ha permitido experimentar con arquitecturas modernas de frontend, se
 
 ---
 
-## Objetivos para 2026
+### Objetivos para 2026
 
 * Lanzar y validar una SaaS propia.
 * Construir un portafolio sólido de productos y proyectos.
@@ -181,23 +208,13 @@ También me ha permitido experimentar con arquitecturas modernas de frontend, se
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-## Creador & Mantenimiento
-
-Desarrollado y mantenido por **Luis Rodriguez** ([@luisrodriguez-rgb](https://github.com/luisrodriguez-rgb)).
-
 <div align="center">
   <a href="https://github.com/luisrodriguez-rgb">
-    <img src="https://github.com/luisrodriguez-rgb.png" width="250" height="250" style="border-radius: 50%; border: 3px solid #2563eb;" alt="Luis Rodriguez" />
-    <br/>
+    <img src="https://github.com/luisrodriguez-rgb.png" width="110" height="110" alt="Luis Ernesto Rodriguez" />
   </a>
+  <br/><br/>
+  <strong>Luis Ernesto Rodríguez</strong><br/>
+  <span style="color: #71717A;">Estudiante de Ingeniería Industrial &middot; Estudiante de Desarrollo de Software &middot; Emprendedor</span>
+  <br/><br/>
+  <em>"Construyendo soluciones que conectan tecnología, negocio y experiencia de usuario."</em>
 </div>
-
-
-> "Construyendo soluciones que conectan tecnología, negocio y experiencia de usuario."
