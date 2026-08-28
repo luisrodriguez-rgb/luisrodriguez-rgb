@@ -138,53 +138,29 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
 
 ---
 
-### Tecnologías
+### Tecnologías &amp; Herramientas
 
-<div align="left">
-
-#### Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=FAFAFA" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=FAFAFA" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-09090B?style=flat-square&logo=html5&logoColor=FAFAFA" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-09090B?style=flat-square&logo=css3&logoColor=FAFAFA" alt="CSS3" />
-</p>
-
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=FAFAFA" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=FAFAFA" alt="Next.js" />
-</p>
-
-#### Backend &amp; Datos
-<p>
-  <img src="https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=nodedotjs&logoColor=FAFAFA" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase-09090B?style=flat-square&logo=firebase&logoColor=FAFAFA" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-09090B?style=flat-square&logo=mysql&logoColor=FAFAFA" alt="MySQL" />
-</p>
-
-#### Herramientas &amp; Desarrollo
-<p>
-  <img src="https://img.shields.io/badge/Git-09090B?style=flat-square&logo=git&logoColor=FAFAFA" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-09090B?style=flat-square&logo=githubactions&logoColor=FAFAFA" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-09090B?style=flat-square&logo=vercel&logoColor=FAFAFA" alt="Vercel" />
-</p>
-
-#### Áreas de Interés &amp; Exploración
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-09090B?style=flat-square" alt="AI" />
-  <img src="https://img.shields.io/badge/Automation-09090B?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-09090B?style=flat-square" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-09090B?style=flat-square" alt="Software Architecture" />
-  <img src="https://img.shields.io/badge/SaaS-09090B?style=flat-square" alt="SaaS" />
-</p>
-
-</div>
+| Categoría | Stack &amp; Herramientas |
+| :--- | :--- |
+| **Lenguajes** | <img src="https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=FAFAFA" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=FAFAFA" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-09090B?style=flat-square&logo=html5&logoColor=FAFAFA" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-09090B?style=flat-square&logo=css3&logoColor=FAFAFA" alt="CSS3" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=FAFAFA" alt="React" /> <img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=FAFAFA" alt="Next.js" /> |
+| **Backend &amp; Datos** | <img src="https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=nodedotjs&logoColor=FAFAFA" alt="Node.js" /> <img src="https://img.shields.io/badge/Firebase-09090B?style=flat-square&logo=firebase&logoColor=FAFAFA" alt="Firebase" /> <img src="https://img.shields.io/badge/MySQL-09090B?style=flat-square&logo=mysql&logoColor=FAFAFA" alt="MySQL" /> |
+| **Herramientas** | <img src="https://img.shields.io/badge/Git-09090B?style=flat-square&logo=git&logoColor=FAFAFA" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="GitHub" /> <img src="https://img.shields.io/badge/GitHub%20Actions-09090B?style=flat-square&logo=githubactions&logoColor=FAFAFA" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-09090B?style=flat-square&logo=vercel&logoColor=FAFAFA" alt="Vercel" /> |
+| **Exploración** | <img src="https://img.shields.io/badge/Artificial%20Intelligence-09090B?style=flat-square" alt="AI" /> <img src="https://img.shields.io/badge/Automation-09090B?style=flat-square" alt="Automation" /> <img src="https://img.shields.io/badge/Cloud%20Computing-09090B?style=flat-square" alt="Cloud Computing" /> <img src="https://img.shields.io/badge/Software%20Architecture-09090B?style=flat-square" alt="Software Architecture" /> <img src="https://img.shields.io/badge/SaaS-09090B?style=flat-square" alt="SaaS" /> |
 
 ---
 
 ### Registro de Contribuciones
+
+<p>
+  Visualización dinámica de actividad de desarrollo y commits generada automáticamente mediante flujos de <strong>GitHub Actions</strong> y el motor vectorial <strong>Platane/snk</strong>.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pipeline-GitHub%20Actions-09090B?style=flat-square&logo=githubactions&logoColor=FAFAFA" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Engine-Platane%2Fsnk-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="Platane snk" />
+  <img src="https://img.shields.io/badge/Update-Daily%20Automated%20Sync-09090B?style=flat-square" alt="Automated Sync" />
+</p>
 
 <div align="center">
   <picture>
