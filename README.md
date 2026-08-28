@@ -30,6 +30,12 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
 <table>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://sketion.vercel.app">
+          <img src="./assets/Sketion_principal-1.svg" width="100%" alt="Sketion Workspace" />
+        </a>
+      </div>
+      <br/>
       <h4>01 // Sketion</h4>
       <p><strong>Visual Knowledge Workspace</strong></p>
       <p>Espacio visual de trabajo para aprender, estructurar información, modelar sistemas y documentar conocimiento. Permite integrar documentos PDF, fórmulas LaTeX, diagramas Mermaid, tablas de datos y notas Markdown en un único espacio visual.</p>
@@ -48,6 +54,12 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
       </p>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/luisrodriguez-rgb/Sketion-Diagram-Design-Engine-">
+          <img src="./assets/logo_Sketion_diagram.png" width="100%" alt="Sketion Diagram Design Engine" />
+        </a>
+      </div>
+      <br/>
       <h4>02 // Sketion Diagram Design Engine</h4>
       <p><strong>Motor Visual para Generar Diagramas</strong></p>
       <p>Proyecto enfocado en transformar ideas, información estructurada y prompts en representaciones visuales organizadas, automatizando decisiones sobre jerarquía, relaciones, distribución espacial, composición y legibilidad.</p>
@@ -80,6 +92,10 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
       </p>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <img src="./assets/seamos_genios.svg" width="100%" alt="SEAMOS GENIOS" />
+      </div>
+      <br/>
       <h4>04 // SEAMOS GENIOS</h4>
       <p><strong>Plataforma Educativa &amp; Automatización</strong></p>
       <p>Desarrollo y mantenimiento de soluciones tecnológicas para organización de preparación académica. Automatización de procesos, desarrollo web e integración de herramientas digitales.</p>
@@ -96,6 +112,12 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/">
+          <img src="./assets/ferreteria.jpeg" width="100%" alt="Ferretería El Dorado" />
+        </a>
+      </div>
+      <br/>
       <h4>05 // Ferretería El Dorado</h4>
       <p><strong>Aplicación Web Comercial &middot; Popayán</strong></p>
       <p>Presencia digital y catálogo web desarrollado para Ferretería El Dorado en Popayán, con interfaz en React y arquitectura con backend y base de datos MySQL.</p>
