@@ -30,7 +30,7 @@
 
 Diseño y construyo **herramientas para desarrolladores, motores deterministas y productos SaaS** donde la optimización matemática se une con la ingeniería de software de alto rendimiento.
 
-En lugar de limitarme a interfaces convencionales, me especializo en resolver problemas complejos de flujo de trabajo: **espacios visuales de conocimiento local-first, motores de diagramación algorítmica, sistemas de decisión multicriterio (MCDA) y simulaciones interactivas en tiempo real**. Participo en el ciclo completo del producto: desde la formulación matemática y la arquitectura limpia hasta el diseño editorial en UI y el despliegue en producción.
+En lugar de limitarme a interfaces convencionales, me gusta resolver problemas complejos de flujo de trabajo: **espacios visuales de conocimiento local-first, motores de diagramación algorítmica, sistemas de decisión multicriterio (MCDA) y simulaciones interactivas en tiempo real**. Participo en el ciclo completo del producto: desde la formulación matemática y la arquitectura limpia hasta el diseño editorial en UI y el despliegue en producción.
 
 ---
 
