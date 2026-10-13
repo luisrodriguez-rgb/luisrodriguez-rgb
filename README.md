@@ -1,177 +1,136 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Luis Ernesto Rodriguez - Profile Header" />
+  <img src="./assets/header.svg" width="100%" alt="Luis Ernesto Rodriguez - Systems & Product Engineering" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/luisrodriguez-rgb">
-    <img src="https://img.shields.io/badge/GITHUB-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="GitHub" />
-  </a>
+  <!-- Barra de Navegación & Conversión Rápida -->
+  <a href="https://sketion.com">
+    <img src="https://img.shields.io/badge/FLAGSHIP-SKETION.COM-FAFAFA?style=for-the-badge&logo=vercel&logoColor=09090B&labelColor=09090B" alt="Sketion" />
+  </a>&nbsp;
+  <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/">
+    <img src="https://img.shields.io/badge/LIVE_ENGINE-GITHUB__SNAKE.EXE-18181B?style=for-the-badge&logo=javascript&logoColor=FAFAFA" alt="Snake Engine" />
+  </a>&nbsp;
   <a href="mailto:luisrodriguez@itipopayan.edu.co">
-    <img src="https://img.shields.io/badge/EMAIL-09090B?style=flat-square&logo=gmail&logoColor=FAFAFA" alt="Email" />
+    <img src="https://img.shields.io/badge/CONTACTO-EMAIL_DIRECTO-09090B?style=for-the-badge&logo=gmail&logoColor=FAFAFA" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/luisrodriguez-rgb">
+    <img src="https://img.shields.io/badge/GITHUB-LUISRODRIGUEZ--RGB-09090B?style=for-the-badge&logo=github&logoColor=FAFAFA" alt="GitHub" />
   </a>
 </div>
 
----
-
-### Sobre Mi
-
-Soy estudiante de **Ingeniería Industrial en la Universidad Icesi** y **estudiante de desarrollo de software** enfocado en aprender construyendo productos digitales que conecten tecnología, negocio y experiencia de usuario.
-
-Me interesa convertir problemas reales en soluciones de software funcionales, participando en todo el proceso: entender el problema, diseñar la solución, desarrollar el producto, desplegarlo y mejorar a partir del uso real.
-
-Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, automatización e inteligencia artificial**, mientras continúo desarrollando mis conocimientos en ingeniería de software, arquitectura y producto.
+<br/>
 
 ---
 
-### Proyectos Destacados
+### `00 // ARQUITECTURA & PERFIL`
+
+> **Ingeniería Industrial (Universidad Icesi) × Desarrollo de Software & Arquitectura de Sistemas.**
+
+Diseño y construyo **herramientas para desarrolladores, motores deterministas y productos SaaS** donde la optimización matemática se une con la ingeniería de software de alto rendimiento.
+
+En lugar de limitarme a interfaces convencionales, me especializo en resolver problemas complejos de flujo de trabajo: **espacios visuales de conocimiento local-first, motores de diagramación algorítmica, sistemas de decisión multicriterio (MCDA) y simulaciones interactivas en tiempo real**. Participo en el ciclo completo del producto: desde la formulación matemática y la arquitectura limpia hasta el diseño editorial en UI y el despliegue en producción.
+
+---
+
+### `01 // SISTEMAS INSIGNIA (PINNED REPOSITORIES)`
 
 <table>
   <tr>
+    <!-- PROYECTO 01: SKETION -->
     <td width="50%" valign="top">
       <h4>
-        <img src="./assets/Sketion_principal-1.svg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="Sketion" />
-        &nbsp; 01 // Sketion
+        <img src="./assets/Sketion_principal-1.svg" width="30" height="30" style="border-radius: 50%;" align="absmiddle" alt="Sketion" />
+        &nbsp; <code>01 // SKETION</code>
       </h4>
-      <p><strong>Visual Knowledge Workspace</strong></p>
-      <p>Espacio visual de trabajo para aprender, estructurar información, modelar sistemas y documentar conocimiento. Permite integrar documentos PDF, fórmulas LaTeX, diagramas Mermaid, tablas de datos y notas Markdown en un único espacio visual.</p>
+      <p><strong>Visual Knowledge Workspace & Systems Modeling</strong></p>
+      <p>Entorno visual de alto rendimiento diseñado para estructurar conocimiento técnico, modelar arquitecturas y documentar ingeniería. Unifica lectura de PDFs, renderizado matemático en <strong>LaTeX</strong>, diagramación <strong>Mermaid</strong>, pipelines de datos y notas Markdown sobre un lienzo infinito con persistencia <em>local-first</em>.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canvas%20API-18181B?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white" />
+        <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Canvas API</code> <code>LaTeX / Mermaid</code>
       </p>
       <p>
-        <a href="https://sketion.vercel.app">[ Demo ]</a> &middot;
-        <a href="https://sketion-home.vercel.app">[ Sitio Web ]</a> &middot;
-        <a href="https://github.com/luisrodriguez-rgb/Sketion">[ Repositorio ]</a> &middot;
-        <a href="https://docs-sketion.vercel.app">[ Documentación ]</a>
+        <a href="https://sketion.com">
+          <img src="https://img.shields.io/badge/ABRIR_PLATAFORMA-SKETION.COM-FAFAFA?style=flat-square&logo=vercel&logoColor=09090B&labelColor=09090B" alt="Sketion Web" />
+        </a>
+        <a href="https://sketion.vercel.app">
+          <img src="https://img.shields.io/badge/APP_DEMO-18181B?style=flat-square" alt="Demo" />
+        </a>
+        <a href="https://docs-sketion.vercel.app">
+          <img src="https://img.shields.io/badge/DOCS-18181B?style=flat-square" alt="Docs" />
+        </a>
+        <a href="https://github.com/luisrodriguez-rgb/Sketion">
+          <img src="https://img.shields.io/badge/REPO-18181B?style=flat-square&logo=github" alt="Repo" />
+        </a>
       </p>
     </td>
+    <!-- PROYECTO 02: SKETION DIAGRAM DESIGN ENGINE -->
     <td width="50%" valign="top">
       <h4>
-        <img src="./assets/logo_Sketion_diagram.png" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="Sketion Diagram Engine" />
-        &nbsp; 02 // Sketion Diagram Design Engine
+        <img src="./assets/logo_Sketion_diagram.png" width="30" height="30" style="border-radius: 50%;" align="absmiddle" alt="Sketion Diagram Engine" />
+        &nbsp; <code>02 // SKETION DIAGRAM ENGINE</code>
       </h4>
-      <p><strong>Motor Visual para Generar Diagramas</strong></p>
-      <p>Proyecto enfocado en transformar ideas, información estructurada y prompts en representaciones visuales organizadas, automatizando decisiones sobre jerarquía, relaciones, distribución espacial, composición y legibilidad.</p>
+      <p><strong>Motor Algorítmico de Diseño y Generación de Diagramas</strong></p>
+      <p>Motor visual que transforma estructuras de datos, esquemas técnicos y prompts en diagramas de arquitectura listos para producción. Automatiza decisiones deterministas de <strong>jerarquía espacial, enrutamiento ortogonal, balance de composición y legibilidad tipográfica</strong> en SVG.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/SVG-18181B?style=flat-square&logo=svg&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-18181B?style=flat-square" />
+        <code>Python</code> <code>TypeScript</code> <code>React</code> <code>SVG Engine</code> <code>Spatial Algorithms</code>
       </p>
       <p>
-        <a href="https://github.com/luisrodriguez-rgb/Sketion-Diagram-Design-Engine-">[ Repositorio ]</a>
+        <a href="https://github.com/luisrodriguez-rgb/Sketion-Diagram-Design-Engine-">
+          <img src="https://img.shields.io/badge/EXPLORAR_ARQUITECTURA-REPO-FAFAFA?style=flat-square&logo=github&logoColor=09090B&labelColor=09090B" alt="Repositorio" />
+        </a>
+        <a href="https://sketion.com">
+          <img src="https://img.shields.io/badge/ECOSISTEMA_SKETION-18181B?style=flat-square" alt="Sketion" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
+    <!-- PROYECTO 03: AXIS-TOOLMAP -->
     <td width="50%" valign="top">
       <h4>
-        <img src="./assets/logo.svg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="GITHUB_SNAKE.EXE" />
-        &nbsp; 03 // GITHUB_SNAKE.EXE
+        &nbsp; <code>03 // AXIS (TOOLMAP)</code>
       </h4>
-      <p><strong>Motor de Simulación Canvas 2D &amp; Videojuego a 60 FPS</strong></p>
-      <p>Motor interactivo y emulador de perfiles con interpolación LERP (Zero-Flicker), navegación autónoma inteligente BFS + Flood Fill, modo duelo multijugador, Web Audio API y generador de scripts de Commit Art.</p>
+      <p><strong>Motor de Decisión Multicriterio (MCDA) para Stacks Técnicos</strong></p>
+      <p>Sistema de evaluación determinista para arquitectos de software e ingenieros. Permite modelar, ponderar y auditar decisiones sobre stacks tecnológicos y flujos de trabajo analizando <em>trade-offs</em> reales (costo, latencia, escalabilidad, fricción operativa) bajo rigor matemático y diseño editorial suizo.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canvas%202D-18181B?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/BFS%20Pathfinding-18181B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web%20Audio-18181B?style=flat-square" />
+        <code>TypeScript</code> <code>Vite</code> <code>MCDA Models</code> <code>Decision Matrix</code> <code>Local-First</code>
       </p>
       <p>
-        <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/">[ Demo en Vivo ]</a> &middot;
-        <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE">[ Repositorio ]</a>
+        <a href="https://github.com/luisrodriguez-rgb/AXIS-TOOLMAP">
+          <img src="https://img.shields.io/badge/INSPECCIONAR_MOTOR-AXIS--TOOLMAP-FAFAFA?style=flat-square&logo=github&logoColor=09090B&labelColor=09090B" alt="AXIS Repo" />
+        </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>04 // El Sabio</h4>
-      <p><strong>Software para Restaurantes</strong></p>
-      <p>Plataforma web para restaurantes y gastrobares para gestionar reservas, disponibilidad de mesas y la operación diaria desde un solo lugar, reduciendo procesos manuales y evitando sobreventas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://produccion-nine.vercel.app/index.html">[ Demo ]</a> &middot;
-        <a href="https://github.com/luisrodriguez-rgb/El-Sabio">[ Repositorio ]</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
+    <!-- PROYECTO 04: GITHUB_SNAKE.EXE -->
     <td width="50%" valign="top">
       <h4>
-        <img src="./assets/seamos_genios.svg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="SEAMOS GENIOS" />
-        &nbsp; 05 // SEAMOS GENIOS
+        <img src="./assets/logo.svg" width="30" height="30" style="border-radius: 50%;" align="absmiddle" alt="GITHUB_SNAKE.EXE" />
+        &nbsp; <code>04 // GITHUB_SNAKE.EXE</code>
       </h4>
-      <p><strong>Plataforma Educativa &amp; Automatización</strong></p>
-      <p>Desarrollo y mantenimiento de soluciones tecnológicas para organización de preparación académica. Automatización de procesos, desarrollo web e integración de herramientas digitales.</p>
+      <p><strong>Simulador Canvas 2D a 60 FPS & IA de Navegación Autónoma</strong></p>
+      <p>Emulador interactivo que convierte la matriz de contribuciones de GitHub en un motor de juego de precisión. Integra <strong>interpolación LERP (Zero-Flicker)</strong>, piloto automático con pathfinding híbrido <strong>BFS + heurística Flood Fill</strong> para evitar callejones sin salida, modo duelo multijugador, sintetizador <strong>Web Audio API</strong> y exportador de scripts de <em>Commit Art</em>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Web%20Dev-18181B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-18181B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Digital%20Product-18181B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Education-18181B?style=flat-square" />
+        <code>Vanilla JS (ES6+)</code> <code>HTML5 Canvas 2D</code> <code>BFS + Flood Fill AI</code> <code>Web Audio API</code>
       </p>
       <p>
-        <strong>Organización:</strong> SEAMOSGENIOS S.A.S.
+        <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/">
+          <img src="https://img.shields.io/badge/EJECUTAR_SIMULADOR-LIVE_60FPS-FAFAFA?style=flat-square&logo=javascript&logoColor=09090B&labelColor=09090B" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE">
+          <img src="https://img.shields.io/badge/CÓDIGO_FUENTE-18181B?style=flat-square&logo=github" alt="Repo" />
+        </a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>
-        <img src="./assets/ferreteria.jpeg" width="34" height="34" style="border-radius: 50%;" align="absmiddle" alt="Ferretería El Dorado" />
-        &nbsp; 06 // Ferretería El Dorado
-      </h4>
-      <p><strong>Aplicación Web Comercial &middot; Popayán</strong></p>
-      <p>Presencia digital y catálogo web desarrollado para Ferretería El Dorado en Popayán, con interfaz en React y arquitectura con backend y base de datos MySQL.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://ferreter-a-el-dorado-1040287131233.us-west2.run.app/">[ Demo ]</a> &middot;
-        <a href="https://github.com/luisrodriguez-rgb/Ferreter-a-el-Dorado">[ Repositorio ]</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>07 // SH Store</h4>
-      <p><strong>E-commerce</strong></p>
-      <p>Proyecto enfocado en el aprendizaje del comercio electrónico y en desarrollar una experiencia de compra moderna utilizando tecnologías actuales de JavaScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=white" />
-      </p>
-      <p>
-        <em>En desarrollo</em>
-      </p>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
 
 ---
 
-### Registro de Contribuciones
+### `02 // TELEMETRÍA DE CONTRIBUCIONES & AUTOMATIZACIÓN`
 
 <p>
-  Visualización dinámica de actividad de desarrollo y commits generada automáticamente mediante flujos de <strong>GitHub Actions</strong> y el motor vectorial <strong>Platane/snk</strong>, complementada con el emulador interactivo <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>GITHUB_SNAKE.EXE</strong></a>.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pipeline-GitHub%20Actions-09090B?style=flat-square&logo=githubactions&logoColor=FAFAFA" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Engine-Platane%2Fsnk-09090B?style=flat-square&logo=github&logoColor=FAFAFA" alt="Platane snk" />
-  <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/">
-    <img src="https://img.shields.io/badge/Simulator-GITHUB__SNAKE.EXE-09090B?style=flat-square&logo=javascript&logoColor=FAFAFA" alt="GITHUB_SNAKE.EXE" />
-  </a>
+  Pipeline automatizado vía <strong>GitHub Actions</strong> y <strong>Platane/snk</strong>, sincronizado conceptualmente con mi propio motor de simulación <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>GITHUB_SNAKE.EXE</strong></a>. ¿Quieres probar la versión jugable con IA en tiempo real? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>Inicia el emulador aquí →</strong></a>
 </p>
 
 <div align="center">
@@ -184,25 +143,11 @@ Actualmente trabajo en proyectos relacionados con **SaaS, aplicaciones web, auto
 
 ---
 
-### Objetivos para 2026
+### `03 // ROADMAP DE INGENIERÍA [2026]`
 
-* Lanzar y validar una SaaS propia.
-* Construir un portafolio sólido de productos y proyectos.
-* Profundizar en arquitectura de software.
-* Mejorar mis conocimientos de DevOps y Cloud Computing.
-* Desarrollar aplicaciones utilizando inteligencia artificial de forma práctica.
-* Trabajar con usuarios reales y validar productos en el mercado.
-* Contribuir a proyectos Open Source.
-
----
-
-<div align="center">
-  <a href="https://github.com/luisrodriguez-rgb">
-    <img src="https://github.com/luisrodriguez-rgb.png" width="110" height="110" alt="Luis Ernesto Rodriguez" />
-  </a>
-  <br/><br/>
-  <strong>Luis Ernesto Rodríguez</strong><br/>
-  <span style="color: #71717A;">Estudiante de Ingeniería Industrial &middot; Estudiante de Desarrollo de Software &middot; Emprendedor</span>
-  <br/><br/>
-  <em>"Construyendo soluciones que conectan tecnología, negocio y experiencia de usuario."</em>
-</div>
+```diff
++ [EN PRODUCCIÓN] Escalado del ecosistema visual Sketion (Workspace & Diagram Design Engine).
++ [ACTIVO]        Modelado de motores deterministas y sistemas de evaluación de arquitecturas (AXIS / MCDA).
+! [EN CURSO]      Profundización en Arquitectura de Software, DevOps, Cloud Computing e IA aplicada.
+> [ABIERTOS]      Colaboraciones en proyectos Open Source, retos de producto SaaS y consultoría técnica.
+```
