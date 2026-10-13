@@ -89,6 +89,7 @@ En lugar de limitarme a interfaces convencionales, me especializo en resolver pr
     <!-- PROYECTO 03: AXIS-TOOLMAP -->
     <td width="50%" valign="top">
       <h4>
+        <img src="./assets/axis-icon.png" width="30" height="30" style="border-radius: 50%;" align="absmiddle" alt="AXIS" />
         &nbsp; <code>03 // AXIS (TOOLMAP)</code>
       </h4>
       <p><strong>Motor de Decisión Multicriterio (MCDA) para Stacks Técnicos</strong></p>
