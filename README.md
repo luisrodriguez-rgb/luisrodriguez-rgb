@@ -50,7 +50,7 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
         <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Canvas API</code> <code>LaTeX / Mermaid</code>
       </p>
       <p>
-        <a href="https://sketion.com">
+        <a href="https://sketion.app.vercel">
           <img src="https://img.shields.io/badge/ABRIR_PLATAFORMA-SKETION.COM-FAFAFA?style=flat-square&logo=vercel&logoColor=09090B&labelColor=09090B" alt="Sketion Web" />
         </a>
         <a href="https://sketion.vercel.app">
