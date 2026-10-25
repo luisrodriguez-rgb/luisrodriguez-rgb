@@ -50,7 +50,7 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
         <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Canvas API</code> <code>LaTeX / Mermaid</code>
       </p>
       <p>
-        <a href="https://sketion.app.vercel">
+        <a href="https://sketion.com">
           <img src="https://img.shields.io/badge/ABRIR_PLATAFORMA-SKETION.COM-FAFAFA?style=flat-square&logo=vercel&logoColor=09090B&labelColor=09090B" alt="Sketion Web" />
         </a>
         <a href="https://sketion.vercel.app">
@@ -110,7 +110,7 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
         &nbsp; <code>04 // GITHUB_SNAKE.EXE</code>
       </h4>
       <p><strong>Simulador Canvas 2D a 60 FPS & IA de Navegación Autónoma</strong></p>
-      <p>Emulador interactivo que convierte la matriz de contribuciones de GitHub en un motor de juego de precisión. Integra <strong>interpolación LERP (Zero-Flicker)</strong>, piloto automático con pathfinding híbrido <strong>BFS + heurística Flood Fill</strong> para evitar callejones sin salida, modo duelo multijugador, sintetizador <strong>Web Audio API</strong> y exportador de scripts de <em>Commit Art</em>.</p>
+      <p>Emulador interactivo que convierte la matriz de contribuciones de GitHub en un motor de juego de precisión. Integra <strong>interpolación LERP (Zero-Flicker)</strong>, piloto automático con pathfinding híbrido <strong>BFS + heurística Flood Fill</strong> para evitar callejones sin salida, modo duelo IA vs jugador, sintetizador <strong>Web Audio API</strong>, exportador de scripts de <em>Commit Art</em> y <strong>GitHub Action</strong> propia que anima tu perfil.</p>
       <p>
         <code>Vanilla JS (ES6+)</code> <code>HTML5 Canvas 2D</code> <code>BFS + Flood Fill AI</code> <code>Web Audio API</code>
       </p>
@@ -130,17 +130,17 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
 
 ### `02 // TELEMETRÍA DE CONTRIBUCIONES & AUTOMATIZACIÓN`
 
-<p>
-  Pipeline automatizado vía <strong>GitHub Actions</strong> y <strong>Platane/snk</strong>, sincronizado conceptualmente con mi propio motor de simulación <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>GITHUB_SNAKE.EXE</strong></a>. ¿Quieres probar la versión jugable con IA en tiempo real? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>Inicia el emulador aquí →</strong></a>
-</p>
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg">
+    <img alt="GITHUB_SNAKE.EXE devorando mi grafico de contribuciones" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
   </picture>
 </div>
+
+<p>
+  Generado cada día por mi propia <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE"><strong>GitHub Action</strong></a>: el mismo motor de <strong>GITHUB_SNAKE.EXE</strong> (IA BFS + Flood Fill) lee mi calendario real y devora el 100% de la matriz. ¿Quieres jugarla en tiempo real o ponerla en tu perfil? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>Inicia el emulador aquí →</strong></a>
+</p>
 
 ---
 
