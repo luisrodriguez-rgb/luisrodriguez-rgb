@@ -134,7 +134,7 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg">
-    <img alt="GITHUB_SNAKE.EXE devorando mi grafico de contribuciones" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
+    <img alt="GITHUB_SNAKE.EXE contribution animation" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
