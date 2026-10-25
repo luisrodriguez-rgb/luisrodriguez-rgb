@@ -21,10 +21,9 @@ jobs:
       - name: Generate Snake SVG
         uses: luisrodriguez-rgb/GITHUB_SNAKE.EXE@v1
         with:
-          github_user_name: luisrodriguez-rgb
+          github_user_name: torvalds
           outputs: |
-            dist/github-snake.svg?theme=light
-            dist/github-snake-dark.svg?theme=dark
+            dist/github-snake.svg?theme=amber_terminal&speed=relaxed
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
