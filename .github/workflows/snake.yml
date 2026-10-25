@@ -1,8 +1,10 @@
-name: Generate Snake Animation
+name: GitHub Snake
 
 on:
+  # Se regenera cada dia a medianoche (UTC)
   schedule:
     - cron: "0 0 * * *"
+  # Permite ejecutarlo a mano desde la pestana Actions
   workflow_dispatch:
   push:
     branches:
@@ -17,17 +19,15 @@ jobs:
 
     steps:
       - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+        uses: luisrodriguez-rgb/GITHUB_SNAKE.EXE@v1
         with:
           github_user_name: luisrodriguez-rgb
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-snake.svg?theme=light
+            dist/github-snake-dark.svg?theme=dark
 
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
