@@ -131,15 +131,14 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
 ### `02 // TELEMETRÍA DE CONTRIBUCIONES & AUTOMATIZACIÓN`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg">
-    <img alt="GITHUB_SNAKE.EXE contribution animation" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
-  </picture>
+  <img alt="GITHUB_SNAKE.EXE devorando mi grafico de contribuciones" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
 </div>
 
 <p>
   Generado cada día por mi propia <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE"><strong>GitHub Action</strong></a>: el mismo motor de <strong>GITHUB_SNAKE.EXE</strong> (IA BFS + Flood Fill) lee mi calendario real y devora el 100% de la matriz. ¿Quieres jugarla en tiempo real o ponerla en tu perfil? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>Inicia el emulador aquí →</strong></a>
+</p>
+<p>
+  ¿Tu GitHub le gana al mío? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/?u=luisrodriguez-rgb#duelSection"><strong>Rétame en un Duelo de Perfiles →</strong></a>
 </p>
 
 ---
