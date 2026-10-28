@@ -131,16 +131,26 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
 ### `02 // TELEMETRÍA DE CONTRIBUCIONES & AUTOMATIZACIÓN`
 
 <div align="center">
+  <a href="https://perfila-lr.vercel.app/?u=luisrodriguez-rgb">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://perfila-lr.vercel.app/api/kit/luisrodriguez-rgb.svg?theme=ink&lang=es">
+      <img alt="Dashboard de contribuciones de @luisrodriguez-rgb" src="https://perfila-lr.vercel.app/api/kit/luisrodriguez-rgb.svg?theme=paper&lang=es" width="100%">
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://perfila-lr.vercel.app/api/luisrodriguez-rgb.svg?theme=ink&lang=es">
+    <img alt="Serpiente con IA devorando el gráfico de contribuciones de @luisrodriguez-rgb" src="https://perfila-lr.vercel.app/api/luisrodriguez-rgb.svg?theme=paper&lang=es" width="100%">
+  </picture>
+</div>
+
+<div align="center">
   <img alt="GITHUB_SNAKE.EXE devorando mi grafico de contribuciones" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
 </div>
 
 <p>
   Generado cada día por mi propia <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE"><strong>GitHub Action</strong></a>: el mismo motor de <strong>GITHUB_SNAKE.EXE</strong> (IA BFS + Flood Fill) lee mi calendario real y devora el 100% de la matriz. ¿Quieres jugarla en tiempo real o ponerla en tu perfil? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>Inicia el emulador aquí →</strong></a>
 </p>
-<p>
-  ¿Tu GitHub le gana al mío? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/?u=luisrodriguez-rgb#duelSection"><strong>Rétame en un Duelo de Perfiles →</strong></a>
-</p>
-
+---
 ---
 
 ### `03 // ROADMAP DE INGENIERÍA [2026]`
