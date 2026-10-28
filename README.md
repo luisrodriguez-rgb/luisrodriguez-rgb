@@ -143,13 +143,7 @@ En lugar de limitarme a interfaces convencionales, me gusta resolver problemas c
   </picture>
 </div>
 
-<div align="center">
-  <img alt="GITHUB_SNAKE.EXE devorando mi grafico de contribuciones" src="https://raw.githubusercontent.com/luisrodriguez-rgb/luisrodriguez-rgb/output/github-snake.svg" width="100%">
-</div>
-
-<p>
-  Generado cada día por mi propia <a href="https://github.com/luisrodriguez-rgb/GITHUB_SNAKE.EXE"><strong>GitHub Action</strong></a>: el mismo motor de <strong>GITHUB_SNAKE.EXE</strong> (IA BFS + Flood Fill) lee mi calendario real y devora el 100% de la matriz. ¿Quieres jugarla en tiempo real o ponerla en tu perfil? <a href="https://luisrodriguez-rgb.github.io/GITHUB_SNAKE.EXE/"><strong>Inicia el emulador aquí →</strong></a>
-</p>
+<img alt="pac-man eating @luisrodriguez-rgb contributions by Portafil" src="https://perfila-lr.vercel.app/api/luisrodriguez-rgb.svg?theme=amber_terminal&lang=es&game=pacman" width="100%">
 ---
 ---
 
