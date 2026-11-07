@@ -41,6 +41,11 @@
   <sub>Generado con <a href="https://github.com/luisrodriguez-rgb/portafil">Portafil</a> · <a href="https://perfila-lr.vercel.app/play.html?u=luisrodriguez-rgb">juega con mi gráfico</a></sub>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=ink&lang=es&skin=lionel-messi">
+  <source media="(prefers-color-scheme: light)" srcset="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=paper&lang=es&skin=lionel-messi">
+  <img alt="@luisrodriguez-rgb companion by Portafil" src="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=paper&lang=es&skin=lionel-messi" width="100%">
+</picture>
 ---
 
 ### `04 // ROADMAP DE INGENIERÍA [2026]`
