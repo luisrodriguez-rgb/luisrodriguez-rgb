@@ -47,6 +47,11 @@
   <img alt="@luisrodriguez-rgb companion by Portafil" src="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=paper&lang=es&skin=lionel-messi" width="100%">
 </picture>
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=ink&lang=es&skin=labrador-retriever">
+  <source media="(prefers-color-scheme: light)" srcset="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=paper&lang=es&skin=labrador-retriever">
+  <img alt="@luisrodriguez-rgb companion by Portafil" src="https://perfila-lr.vercel.app/api/companion/luisrodriguez-rgb.svg?theme=paper&lang=es&skin=labrador-retriever" width="100%">
+</picture>
 
 ### `04 // ROADMAP DE INGENIERÍA [2026]`
 
