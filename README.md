@@ -21,7 +21,7 @@
 ### `04 // ROADMAP DE INGENIERÍA [2026]`
 
 ```diff
-+ [EN PRODUCCIÓN] Escalado de ecosistema visual Sketion (Workspace & Diagram Design Engine).
++ [EN PRODUCCIÓN] Escalado de ecosistema visual Sketion (Workspace app & Diagram Design Engine).
 + [EN PRODUCCIÓN] Portafil: motor de identidad visual para perfiles de GitHub (SVG, juegos, estudio y GitHub Action).
 + [ACTIVO]        Modelado de motores deterministas y sistemas de evaluación de arquitecturas (AXIS / MCDA).
 ! [EN CURSO]      Profundización en Arquitectura de Software, DevOps, Cloud Computing e IA aplicada.
